@@ -1,4 +1,4 @@
-##  Portfolio<
+##  Portfolio
 
 Myself Krishna R. 
 Currently, I'm Studying as a web designer.I've completed my graduation in Diploma Computer science, thereafter I had gone through 1 year of silly works.
