@@ -1,4 +1,4 @@
-## <u> Portfolio</u>
+##  Portfolio<
 
 Myself Krishna R. 
 Currently, I'm Studying as a web designer.I've completed my graduation in Diploma Computer science, thereafter I had gone through 1 year of silly works.
@@ -20,14 +20,17 @@ Currently, I'm Studying as a web designer.I've completed my graduation in Diplom
 
 Working with Secret Project.
 <hr>
+
 ### **PROJECT WEBSITE**
 <a href= "https://jiophone477.000webhostapp.com/">Job Portal Site </a>
+<hr>
 
 ### EDUCATION
 
 INDIA GANDHI MEMORIAL MATRICULATION HR SEC SCHOOL Computer Science (2017- 2019)
  With 85%
- 
+ <hr>
+
 ### INTERESTS
 Apart from being a web developer,
 
